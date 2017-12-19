@@ -54,7 +54,7 @@
 Изучение математики можно разделить следующим образом:
 
 1. [Комбинаторика](./combinatorics.md).
-2. [Теория вероятности](./probability_theory.md).
+2. [Теория вероятностей](./probability_theory.md).
 3. [Анализ](./math_analysis.md).
 5. [Линейная алгебра](./linear_algebra.md).
 6. [Статистика](./statistics.md).
